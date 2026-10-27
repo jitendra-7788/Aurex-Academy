@@ -69,7 +69,7 @@ npm run seed
 npm run dev
 ```
 
-- Frontend: http://localhost:5173  
+- Frontend: https://aurex-academy-lms.netlify.app/  
 - API: http://localhost:5000  
 - Swagger: http://localhost:5000/api/docs  
 
